@@ -1,5 +1,6 @@
 # Compiled binaries
 hello
+sdl_rectangle
 *.o
 *.out
 
